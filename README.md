@@ -105,4 +105,4 @@ This guarantees that results are reproducible from a known data state.
 
 ## License
 
-Placeholder — to be decided before publication.
+MIT. See [LICENSE](LICENSE) for details.
