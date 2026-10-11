@@ -1,0 +1,11 @@
+filepath,size_bytes,sha1_head_tail
+results\paper1\metrics\persistence.csv,410,3bdd48424c9b305c12dfa15091395d0fed3f37f9
+results\paper1\metrics\xgb_baseline.csv,407,2645a3fae04b49501a539b7885361d2ae3d60f39
+results\paper1\metrics\xgb_tuned.csv,411,3f14abeb7d1c02b03f700f4ae95eb27b423ebef5
+results\paper1\metrics\ablation_xgb.csv,1171,9ce0c95f2d720349d40c49253f1bc6e187543363
+results\paper1\tables\persistence_summary.csv,646,b046a8ff656b37484c00fc4aaa8b70c00881d72d
+results\paper1\tables\xgb_baseline_summary.csv,648,14761fe9978490442b74a2a9948b8136ec5f0788
+results\paper1\tables\xgb_tuned_summary.csv,644,8659a0137c693d55a5b46252bfe2ecfb4a235dea
+results\paper1\tables\xgb_tuned_hyperparams.csv,303,11f610f568461bf4b38d90d01e65136b78f1d092
+results\paper1\tables\ablation_xgb_summary.csv,1814,27fccaa4dab2e3487d90a12d98e5d667b0a17090
+results\paper1\tables\ablation_xgb_hyperparams.csv,775,f6385f9d254e7baeb1c636e16031c6c3c8607062

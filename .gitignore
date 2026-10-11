@@ -1,0 +1,52 @@
+# .gitignore for era5-philippines
+# Excludes large data folders, cache files, and scratch files
+# from version control. The code and docs are published; the
+# derived data is regenerable via scripts/run_all.py.
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Data folders — regenerable, not published
+data/raw/
+data/extracted/
+data/cleaned/
+data/with_geometry/
+data/features/
+data/splits/
+
+# Scratch / backup files
+*.bak
+*.prep18
+*.orig
+_*.py
+scratch/
+_audit_repo.py
+_audit_paths.py
+dhhdhdd.py
+shshhshshs.py
+
+# Logs
+*.log
+batch.log

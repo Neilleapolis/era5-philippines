@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript and the archived repository."
+title: "ERA5-Philippines Solar Forecasting"
+abstract: >
+  A leakage-audited machine learning pipeline for ERA5-based
+  solar forecasting across four Philippine cities (Muntinlupa,
+  Baguio, Cebu, Davao). Forecasts surface solar radiation
+  (ssrd_wm2) using publicly available ERA5 reanalysis data and
+  evaluates compliance with the Philippine WESM 18% MAPE
+  benchmark.
+authors:
+  - family-names: "Sasalo"
+    given-names: "Neil Chester Nicholas"
+version: "1.0.0"
+date-released: "2026-10-11"
+license: MIT
+repository-code: "[GITHUB URL - fill in after publishing]"
+keywords:
+  - solar forecasting
+  - ERA5
+  - XGBoost
+  - Philippines
+  - WESM
+  - renewable energy

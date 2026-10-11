@@ -1,0 +1,26 @@
+# era5-philippines - Paper 1 dependencies
+# Python 3.11 or newer. No GPU required.
+
+# Data download
+cdsapi>=0.6
+
+# NetCDF handling
+xarray>=2023.1
+netcdf4>=1.6
+dask>=2023.1
+
+# Data manipulation
+numpy>=1.24
+pandas>=2.0
+
+# Solar geometry
+pvlib>=0.10
+
+# Modelling
+xgboost>=1.6,<3
+scikit-learn>=1.2
+
+# Plotting
+matplotlib>=3.7
+Pillow>=10.0
+

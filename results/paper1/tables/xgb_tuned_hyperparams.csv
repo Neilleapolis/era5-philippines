@@ -1,0 +1,5 @@
+city,learning_rate,max_depth,min_child_weight,subsample,best_iteration,n_estimators_final,val_mape_at_best,objective,eval_metric,colsample_bytree,random_state,tree_method
+muntinlupa,0.01,10,5,0.7,996,1196,9.24867504689441,reg:squarederror,rmse,0.8,42,hist
+baguio,0.05,6,5,0.7,755,906,9.389290536521964,reg:squarederror,rmse,0.8,42,hist
+cebu,0.01,8,5,0.7,1000,1200,8.995852112569755,reg:squarederror,rmse,0.8,42,hist
+davao,0.01,10,5,0.7,1000,1200,7.099027606199523,reg:squarederror,rmse,0.8,42,hist
